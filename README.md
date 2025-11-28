@@ -43,6 +43,7 @@
    git+https://github.com/huggingface/diffusers.git
    git+https://github.com/huggingface/peft.git
    huggingface_hub
+   gradio==5.49.1
    qwen-vl-utils
    sentencepiece
    opencv-python
@@ -58,9 +59,6 @@
    hf_xet
    numpy
    av
-   gradio
-   pillow
-   requests
    ```
 
 3. Start the application:
